@@ -5,30 +5,30 @@
 
 ## 计算卫星位置及速度
 
-[例题3.1-3.2 notebook](./demo3.1.ipynb) <br>
+[例题3.1-3.2 notebook](/demo3.1.ipynb) <br>
 
 *P61 例题3.1-3.2*
 
-![P61 例题3.1](./pictures/demo3.1-P61.png)
+![P61 例题3.1](/pictures/demo3.1-P61.png)
 
 *求解过程*
 
-![P61 例题3.1-答案](./pictures/demo3.1-answer%20step1.png)
+![P61 例题3.1-答案](/pictures/demo3.1-answer%20step1.png)
 
-![P61 例题3.1-答案](./pictures/demo3.1-answer%20step2-3.png)
+![P61 例题3.1-答案](/pictures/demo3.1-answer%20step2-3.png)
 
-![P61 例题3.1-答案](./pictures/demo3.1-answer%20step4-7.png)
+![P61 例题3.1-答案](/pictures/demo3.1-answer%20step4-7.png)
 
-![P61 例题3.1-答案](./pictures/demo3.1-answer%20step8-10.png)
+![P61 例题3.1-答案](/pictures/demo3.1-answer%20step8-10.png)
 
-![P61 例题3.1-答案](./pictures/demo3.1-answer%20step11.png)
+![P61 例题3.1-答案](/pictures/demo3.1-answer%20step11.png)
 
-![P61 例题3.1-答案](./pictures/demo3.1-answer%20step12.png)
+![P61 例题3.1-答案](/pictures/demo3.1-answer%20step12.png)
 
-![P61 例题3.1-答案](./pictures/demo3.1-answer%20step13.png)
+![P61 例题3.1-答案](/pictures/demo3.1-answer%20step13.png)
 
-![P61 例题3.1-答案](./pictures/demo3.1-answer%20step12-13.png)
+![P61 例题3.1-答案](/pictures/demo3.1-answer%20step12-13.png)
 
 *WGS84参数*
 
-![WGS84参数](./pictures/WGS-84.png)
+![WGS84参数](/pictures/WGS-84.png)
